@@ -11,7 +11,7 @@ We will try to update programs based on python 3+
 
 ## index of contents
 1. simple-pyramid.py
-# output:
+##### output:
 
 ```
 *
