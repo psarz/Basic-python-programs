@@ -34,7 +34,7 @@ We will try to update programs based on python 3+
 * * * * *
 ```
 
-3. fabonacci.py
+3. fibonacci.py
 ##### output:
 ```
 enter number: 20000
